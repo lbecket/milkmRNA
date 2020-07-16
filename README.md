@@ -1,2 +1,2 @@
 # milkmRNA
-Supplemental files for milk mRNA paper submitted to physiological genomics. 
+Supplemental files for "Mammary transcriptome reveals cell maintenance and protein turnover support milk synthesis in early lactation cows" submitted to Physiological Genomics. 
